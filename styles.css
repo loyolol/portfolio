@@ -7,6 +7,10 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #ffffff;
+    -webkit-user-select: auto;
+    -moz-user-select: auto;
+    -ms-user-select: auto;
+    user-select: auto;
 }
 
 div img
